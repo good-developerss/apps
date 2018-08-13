@@ -1,0 +1,20 @@
+{
+ "info": [
+    {
+        "package_name":"com.gallerypro.gallery",
+        "active_ad" : "1",
+        "random_no" : "2",
+        "IsAdshowOneTime" : "true",
+        "google_ad_interestial": "ca-app-pub-6892625045048837/9262688640",
+        "fb_ad_interestial": "ca-app-pub-68926250"
+    },
+    {
+        "package_name":"gallery.galleryapp.gallerydownload",
+        "active_ad" : "1",
+        "random_no" : "2",
+        "IsAdshowOneTime" : "true",
+        "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
+        "fb_ad_interestial": "ca-app-pub-68926250"
+    }
+]
+}
