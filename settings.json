@@ -5,7 +5,7 @@
         "active_ad" : "1",
         "random_no" : "2",
         "IsAdshowOneTime" : "true",
-        "google_ad_interestial": "ca-app-pub-6892625045048837/9262688640",
+        "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
         "fb_ad_interestial": "ca-app-pub-68926250"
     },
     {
@@ -14,14 +14,6 @@
         "random_no" : "2",
         "IsAdshowOneTime" : "true",
         "google_ad_interestial": "ca-app-pub-6892625045048837/6222661569",
-        "fb_ad_interestial": "ca-app-pub-68926250"
-    },
-    {
-        "package_name":"gallery.galleryapp.gallerylocker",
-        "active_ad" : "1",
-        "random_no" : "2",
-        "IsAdshowOneTime" : "true",
-        "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
         "fb_ad_interestial": "ca-app-pub-68926250"
     }
 ]
