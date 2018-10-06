@@ -10,11 +10,11 @@
     },
     {
         "package_name":"gallery.galleryapp.gallerydownload",
-        "active_ad" : "1",
+        "active_ad" : "2",
         "random_no" : "2",
         "IsAdshowOneTime" : "true",
         "google_ad_interestial": "ca-app-pub-6681518038888790/1517953546",
-        "fb_ad_interestial": "ca-app-pub-68926250"
+        "fb_ad_interestial": "165000744433075_165395717726911"
     }
 ]
 }
