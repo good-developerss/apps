@@ -2,11 +2,11 @@
  "info": [
     {
         "package_name":"com.gallerypro.gallery",
-        "active_ad" : "1",
+        "active_ad" : "2",
         "random_no" : "2",
         "IsAdshowOneTime" : "true",
         "google_ad_interestial": "ca-app-pub-3940256099942544",
-        "fb_ad_interestial": "ca-app-pub-68926250"
+        "fb_ad_interestial": "754122611599011_754122684932337"
     },
     {
         "package_name":"gallery.galleryapp.gallerydownload",
