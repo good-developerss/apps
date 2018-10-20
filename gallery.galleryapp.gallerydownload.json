@@ -1,0 +1,22 @@
+{
+ "info": [
+   {
+    "package_name":"gallery.galleryapp.gallerydownload",
+    "active_ad" : "1",
+    "random_no" : "2",
+    "IsAdshowOneTime" : "true",
+    "google_ad_interestial": "ca-app-pub-4470",
+    "google_banner" : "ca-app-pub-447025113",
+    "fb_ad_interestial": "165000744433075_165395717726911",
+    "fb_nativebanner" : "165000744433075_174226390177177",
+    "active_banner_ad" : "1",
+    "is_update" : "false",
+    "is_forcefully": "false",
+    "version_code" : "1",
+    "new_version_code" : "1",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/gallerybanner.png",
+    "customad_pkg" : "gallery.gallerydownload.gallerylocker",
+    "cust_isshow" : "false"
+ }
+]
+}
