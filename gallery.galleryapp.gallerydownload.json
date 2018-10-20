@@ -12,8 +12,8 @@
     "active_banner_ad" : "2",
     "is_update" : "false",
     "is_forcefully": "false",
-    "version_code" : "1",
-    "new_version_code" : "1",
+    "version_code" : "8",
+    "new_version_code" : "8",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/gallerybanner.png",
     "customad_pkg" : "gallery.gallerydownload.gallerylocker",
     "cust_isshow" : "false"
