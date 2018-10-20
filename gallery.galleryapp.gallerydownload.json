@@ -2,7 +2,7 @@
  "info": [
    {
     "package_name":"gallery.galleryapp.gallerydownload",
-    "active_ad" : "1",
+    "active_ad" : "2",
     "random_no" : "2",
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-4470251131737969/1354099729",
