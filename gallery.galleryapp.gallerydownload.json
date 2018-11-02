@@ -3,8 +3,8 @@
    {
     "package_name":"gallery.galleryapp.gallerydownload",
     "active_ad" : "2",
-    "random_no" : "3",
-    "IsAdshowOneTime" : "false",
+    "random_no" : "2",
+    "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-4470251131737969/1354099729",
     "google_banner" : "ca-app-pub-447025113",
     "fb_ad_interestial": "165000744433075_165395717726911",
