@@ -2,14 +2,14 @@
  "info": [
    {
     "package_name":"com.gallerypro.gallery",
-    "active_ad" : "2",
+    "active_ad" : "1",
     "random_no" : "2",
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-4470251131737969/6209048572",
     "google_banner" : "ca-app-pub-4470251131737969/4962172243",
-    "fb_ad_interestial": "754122611599011_754122684932337",
-    "fb_nativebanner" : "754122611599011_760450994299506",
-    "active_banner_ad" : "2",
+    "fb_ad_interestial": "75412261159",
+    "fb_nativebanner" : "75412261159",
+    "active_banner_ad" : "1",
     "is_update" : "false",
     "is_forcefully": "false",
     "version_code" : "175",
