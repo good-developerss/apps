@@ -13,7 +13,7 @@
     "fb_ad_interestial_duration" : "500",
     "firstpage_fb_interstrial_ad" : "YOUR_PLACEMENT_ID",
     "fb_nativebanner" : "YOUR_PLACEMENT_ID",
-    "is_fb_bannerad_show" : "0",
+    "is_fb_bannerad_show" : "1",
     "active_banner_ad" : "2",
     "is_update" : "false",
     "is_forcefully": "false",
