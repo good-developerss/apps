@@ -2,8 +2,8 @@
  "info": [
   {
     "package_name":"com.photo.album.hd.gallery.quickpic.galleryvault",
-    "active_ad" : "1",
-    "random_no" : "1",
+    "active_ad" : "2",
+    "random_no" : "2",
     "firstpage_fb_random" : "2",
     "firstpage_fb_duration" : "1000",
     "IsAdshowOneTime" : "true",
