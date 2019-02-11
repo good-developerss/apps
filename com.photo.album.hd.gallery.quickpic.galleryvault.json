@@ -20,7 +20,7 @@
     "version_code" : "1",
     "new_version_code" : "1",
     "message" : "Update new Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
-    "custom_adurl" : "",
+    "custom_adurl" : "null",
     "customad_pkg" : "com.gallerynew.galleryllc",
     "cust_isshow" : "false"
 }
