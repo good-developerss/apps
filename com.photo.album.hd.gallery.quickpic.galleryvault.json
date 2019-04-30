@@ -23,6 +23,30 @@
     "custom_adurl" : "",
     "customad_pkg" : "com.gallerynew.galleryllc",
     "cust_isshow" : "false"
+},
+  {
+    "package_name":"com.photo.album.hd.gallery.quickpic.galleryvault",
+    "active_ad" : "2",
+    "random_no" : "2",
+    "firstpage_fb_random" : "2",
+    "firstpage_fb_duration" : "1000",
+    "IsAdshowOneTime" : "true",
+    "google_ad_interestial": "ca-app-pub-2000034986305204/2275073078",
+    "google_banner" : "ca-app-pub-2000034986305204/1728278169",
+    "fb_ad_interestial" : "717770038619335_717773391952333",
+    "fb_ad_interestial_duration" : "500",
+    "firstpage_fb_interstrial_ad" : "717770038619335_717773695285636",
+    "fb_nativebanner" : "717770038619335_717772451952427",
+    "is_fb_bannerad_show" : "2",
+    "active_banner_ad" : "2",
+    "is_update" : "false",
+    "is_forcefully": "false",
+    "version_code" : "2",
+    "new_version_code" : "2",
+    "message" : "Update new Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
+    "custom_adurl" : "",
+    "customad_pkg" : "com.gallerynew.galleryllc",
+    "cust_isshow" : "false"
 }
 ]
 }
