@@ -5,18 +5,18 @@
     "active_ad" : "1",
     "random_no" : "2",
     "IsAdshowOneTime" : "true",
-    "google_ad_interestial": "ca-app-pub-4470251131737969/6209048572",
-    "google_banner" : "ca-app-pub-4470251131737969/4962172243",
-    "fb_ad_interestial": "75412261159",
-    "fb_nativebanner" : "75412261159",
+    "google_ad_interestial": "",
+    "google_banner" : "",
+    "fb_ad_interestial": "",
+    "fb_nativebanner" : "",
     "active_banner_ad" : "1",
     "is_update" : "false",
     "is_forcefully": "false",
     "version_code" : "175",
     "new_version_code" : "175",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/gallerybanner.png",
-    "customad_pkg" : "gallery.gallerydownload.gallerylocker",
-    "cust_isshow" : "false"
+    "custom_adurl" : "https://raw.githubusercontent.com/good-developerss/apps/master/gallery_pro_banner_ad.png",
+    "customad_pkg" : "audioplayer.music.player",
+    "cust_isshow" : "true"
  }
 ]
 }
