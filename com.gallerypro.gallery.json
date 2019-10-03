@@ -14,8 +14,8 @@
     "is_forcefully": "false",
     "version_code" : "175",
     "new_version_code" : "175",
-    "custom_adurl" : "https://raw.githubusercontent.com/good-developerss/apps/master/gallery_pro_banner_ad.png",
-    "customad_pkg" : "audioplayer.music.player",
+    "custom_adurl" : "https://raw.githubusercontent.com/good-developerss/apps/master/barcode_scanner_banner_ad.png",
+    "customad_pkg" : "qrcode.scanner.barcode.scanner",
     "cust_isshow" : "true"
  }
 ]
